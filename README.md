@@ -1,6 +1,6 @@
 # Hey, I'm Lark.
 
-If you'd like to know a bit about me or what I do on GitHub then you've come to the correct place. I'm a teenager based in the UK who enjoys creating simple but effective scripts and webpages in a range of languages. Some of these include PHP, JavaScript, HTML. Python & more.
+If you'd like to know a bit about me or what I do on GitHub then you've come to the correct place. I'm a teenager based in the UK who enjoys creating simple but effective scripts and webpages in a range of languages. Some of these include PHP, JavaScript, HTML. Python & more. Contact me on Discord or by email :)
 
 ### Statistics
 
