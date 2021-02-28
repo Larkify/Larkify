@@ -16,6 +16,9 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
   </tr>
 </table>
 
+###Spotify
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
 
 <!--
 **Larkify/Larkify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
