@@ -12,7 +12,7 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 
 - 📫 How to reach me **contact@larkx.xyz**
 
-- ⚡ Fun fact, **my Discord Bot is in a Partnered Server!**
+- ⚡ Fun fact, **Nova is in a Partnered Server!**
 
 
 ## Languages and Tools:
