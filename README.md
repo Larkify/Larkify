@@ -1,9 +1,9 @@
 # Hey, I'm Lark.
-
+### A teenage armature developer, video editor and gamer.
 If you'd like to know a bit about me or what I do on GitHub then you've come to the correct place. I'm a teenager based in the UK who enjoys creating simple but effective scripts and webpages in a range of languages. Some of these include PHP, JavaScript, HTML. Python & more. Contact me on Discord or by email :)
 
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">A teenage armature developer, video editor and gamer.</h3>
+
+
 
 - 🔭 I’m currently working on [Nova's Website](https://github.com/larkify/nova-website/)
 
