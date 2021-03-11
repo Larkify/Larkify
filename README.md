@@ -4,7 +4,7 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 
 ## Information
 
-- 🔭 I’m currently working on [Nova's Website](https://github.com/larkify/nova-website/)
+- 🔭 I’m currently working on [DJS Tutorials](https://larkx.xyz/s/youtube)
 
 - 🎶 I'm currently watching **my** [tiktok account](https://larkx.xyz/s/tiktok)
 
