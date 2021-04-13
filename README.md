@@ -14,7 +14,7 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 
 - 📫 How to reach me **contact@larkx.xyz**
 
-- ⚡ Fun fact, **Nova is in a Partnered Server!**
+- ⚡ Fun fact, **Nova is in 2x Partnered Servers!**
 
 <a href="https://discord.bio/p/larkx"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/507585837802848257.png" alt="larkx#0001"/></a>
 
