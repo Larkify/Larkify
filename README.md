@@ -29,7 +29,7 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="Larkify's Streaks"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="Larkify's Streaks"/></p>
 
 
 
