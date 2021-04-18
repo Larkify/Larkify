@@ -26,16 +26,8 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 ## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet)
-<!-- <table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;"> -->
-      <img src="https://github-readme-stats.vercel.app/api/?username=Larkify&show_icons=true&bg_color=1f1d2e&text_color=fdfdfd&icon_color=81aab4&hide_border=true&hide_title=true&count_private=true" />
-    <!--</td>
-     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Larkify&layout=compact&show_icons=true&bg_color=00000000&hide_border=true" />
-    </td> 
-  </tr>
-</table>-->
+
+<p><img src="https://github-readme-stats.vercel.app/api/?username=Larkify&show_icons=true&bg_color=1f1d2e&text_color=fdfdfd&icon_color=81aab4&hide_border=true&hide_title=true&count_private=true"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=FAF4ED&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="Larkify's Streaks"/></p>
 
