@@ -27,7 +27,7 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet)
 
-<p><img src="https://github-readme-stats.vercel.app/api/?username=Larkify&show_icons=true&bg_color=1f1d2e&text_color=fdfdfd&icon_color=81aab4&hide_border=true&hide_title=true&count_private=true"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8" alt="Larkify's Streaks"/></p>
 
