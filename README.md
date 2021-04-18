@@ -31,9 +31,9 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api/?username=Larkify&show_icons=true&bg_color=1f1d2e&text_color=fdfdfd&icon_color=81aab4&hide_border=true&hide_title=true&count_private=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
+    <!-- <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Larkify&layout=compact&show_icons=true&bg_color=00000000&hide_border=true" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
