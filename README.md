@@ -1,20 +1,5 @@
-# Hey, I'm Lark.
-If you'd like to know a bit about me or what I do on GitHub then you've come to the correct place. I'm a teenager based in the UK who enjoys creating simple but effective scripts and webpages in a range of languages. Some of these include PHP, JavaScript, HTML. Python & more. Contact me on Discord or by email :)
-
-
-## Information
-
-- 🔭 I’m currently working on [My new website!!](https://larkx.xyz/)
-
-- 🎶 I'm currently watching **my** [tiktok account](https://larkx.xyz/s/tiktok)
-
-- 🌱 I’m currently learning **Front-end Development**
-
-- 💬 Ask me about **Discord.JS, HTML & CSS.**
-
-- 📫 How to reach me **contact@larkx.xyz**
-
-- ⚡ Fun fact, **Nova is in 2x Partnered Servers!**
+# Hey, I'm Kiran.
+I'm a teenage developer from the UK focused on creating beautiful websites for all types of application. Ocasioanally, you'll find me doing other projects such as Discord bots or miscellaneous Python scripts. If you wish to contact me, email me at [contact@larkx.xyz](mailto:contact@larkx.xyz). 
 
 <a href="https://discord.bio/p/larkx"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/507585837802848257.png" alt="larkx#0001"/></a>
 
@@ -30,21 +15,3 @@ If you'd like to know a bit about me or what I do on GitHub then you've come to 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkify&langs_count=8&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"/></p>
-
-
-
-
-<!--
-**Larkify/Larkify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
