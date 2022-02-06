@@ -1,4 +1,4 @@
-# Hey, I'm Kiran.
+# 🏝 Hey, I'm Kiran.
 I'm a teenage developer from the UK focused on creating beautiful websites for all types of application. Ocasioanally, you'll find me doing other projects such as Discord bots or miscellaneous Python scripts. If you wish to contact me, email me at [contact@larkx.xyz](mailto:contact@larkx.xyz). Oh, also - invite my awesome verified Discord bot 😎 --> https://larkx.xyz/nova
 
 <a href="https://discord.bio/p/larkx"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/507585837802848257.png" alt="larkx#0001"/></a>
