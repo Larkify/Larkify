@@ -9,6 +9,8 @@
  <a href="mailto:contact@larkx.xyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" alt="contact@larkx.xyz" height="30" width="40" /></a>
 </p></h2>
 
+Contact me via [email], [twitter] or [discord] for information regarding hiring me.
+
 ✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **React** & **Nextjs**<br>
 ✔ I'm quite good at **Discord.js**, **VueJS**, **Tailwind**, **HTML**<br>
