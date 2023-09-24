@@ -13,7 +13,7 @@
 </p></h2>
 
 > Affordable UI/UX Design, Webflow & React websites!\
-> Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
+> Get in contact via [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz).
 
 <br>
 
@@ -21,4 +21,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=larkify&rank_icon=github"/>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkify&langs_count=8&layout=compact&card_width=445&hide_border=true"> -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&card_width=420"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&card_width=400"/>
