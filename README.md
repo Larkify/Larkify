@@ -13,8 +13,9 @@
 
 > Affordable UI/UX Design, Webflow & React websites!\
 > Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
+>
+> *Thank you, Kiran.*
 
-<p>‎ </p>
 <p>‎ </p>
 <p>‎ </p>
 <p>‎ </p>
