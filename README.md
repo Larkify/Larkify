@@ -5,6 +5,7 @@
 </a>
 
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet">
+<br>
 <h2 align="center" style="font-weight: 700;"> Software Developer & UI/UX Designer
 
 <p align="center">
