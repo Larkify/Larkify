@@ -18,3 +18,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkify&langs_count=8&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"/></p>
+<a href="https://discord.com/users/507585837802848257" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/507585837802848257?bg=1f1f1f&borderRadius=5px">
+</a>
+<a href="https://wakatime.com/@Larkify" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Larkify&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
