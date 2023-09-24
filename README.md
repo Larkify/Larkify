@@ -11,11 +11,11 @@
  <a href="mailto:contact@larkx.xyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" alt="contact@larkx.xyz" height="30" width="40" /></a>
 </p></h2>
 
-> Affordable UI/UX Design, Webflow & React websites!\
-> Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
-> Need something larger? Get in contact with [samol.studio](https://samol.studio/) for large projects.
+> - Affordable UI/UX Design, Webflow & React websites!\
+> - Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
+> - Need something larger? Get in contact with [samol.studio](https://samol.studio/) for large projects.
 >
-> *Thank you, Kiran.*
+> *Thank you, Kiran.*<br>
 > *UI/UX | Webflow | React*
 
 <p>‎ </p>
