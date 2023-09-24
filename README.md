@@ -4,7 +4,6 @@
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/507585837802848257?bg=1f1f1f&borderRadius=5px">
 </a>
 
-<br>
 <h2 align="center" style="font-weight: 700;"> Software Developer & UI/UX Designer
 
 <p align="center">
@@ -16,8 +15,6 @@
 > Affordable UI/UX Design, Webflow & React websites!\
 > Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
 > <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet">
-> *Thank you, Kiran.*<br>
-> *UI/UX | Webflow | React*
 
 <br>
 
