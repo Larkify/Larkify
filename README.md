@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://twitter.com/larkthedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larkthedev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyrardvibzh3kjn0ytd2oaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucyrardvibzh3kjn0ytd2oaw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyrArdVIBzh3KJn0yTd2OAw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucyrardvibzh3kjn0ytd2oaw" height="30" width="40" /></a>
  <a href="mailto:contact@larkx.xyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" alt="contact@larkx.xyz" height="30" width="40" /></a>
 </p></h2>
 
