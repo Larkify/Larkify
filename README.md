@@ -24,4 +24,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=larkify&rank_icon=github"/>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkify&langs_count=8&layout=compact&card_width=445&hide_border=true"> -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify"/>
