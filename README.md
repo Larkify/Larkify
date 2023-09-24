@@ -14,7 +14,9 @@
 
 > Affordable UI/UX Design, Webflow & React websites!\
 > Visit [my website](https://larkx.xyz/) or email me at [hello@larkx.xyz](mailto:hello@larkx.xyz) to get in touch.
-> <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet">
+> 
+> *Thank you, Kiran.*<br>
+> *UI/UX | Webflow | React*
 
 <br>
 
