@@ -1,5 +1,5 @@
 <img src="https://media.discordapp.net/attachments/996439758412718090/996475436387287091/github4.png"></img> 
-<hr>-->
+<hr>
 <a href="https://discord.com/users/507585837802848257" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/507585837802848257?bg=1f1f1f&borderRadius=5px">
 </a>
