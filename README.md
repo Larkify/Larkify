@@ -16,6 +16,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Larkify&style=flat-square&color=blueviolet)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkify&langs_count=8&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true"></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larkify&theme=dark&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"/></p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/507585837802848257)](https://discord.com/users/507585837802848257)
+<a href="https://discord.com/users/507585837802848257" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/507585837802848257?bg=1f1f1f&borderRadius=5px">
+</a>
